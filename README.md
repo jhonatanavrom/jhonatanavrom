@@ -2,6 +2,9 @@
 
 Soy un entusiasta del análisis de datos geoespaciales, especializado en el testeo de aplicaciones que utilizan mapas, rutas y coordenadas. Mi objetivo es optimizar y asegurar la precisión de las aplicaciones de delivery para proporcionar la mejor experiencia al usuario.
 
+🌟 Objetivo:
+Contribuir a proyectos innovadores que integren tecnología geoespacial para resolver problemas del mundo real.
+
 🔍 Áreas de Interés:
 
 Análisis de Datos Geoespaciales
@@ -24,6 +27,6 @@ Desarrollo de Aplicaciones Basadas en Mapas
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🌟 Objetivo:
-Contribuir a proyectos innovadores que integren tecnología geoespacial para resolver problemas del mundo real.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/jhonatanavrom/github-readme-stats)
+
 
