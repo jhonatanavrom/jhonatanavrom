@@ -1,17 +1,16 @@
 ## Bienvenido a mi espacio creativo 👋
 
-Aquí podrás encontrar algunos proyectos de interés para el test de aplicaciones de envío.
-<!--
-**jhonatanavrom/jhonatanavrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un entusiasta del análisis de datos geoespaciales, especializado en el testeo de aplicaciones que utilizan mapas, rutas y coordenadas. Mi objetivo es optimizar y asegurar la precisión de las aplicaciones de delivery para proporcionar la mejor experiencia al usuario.
 
-Here are some ideas to get you started:
+🔍 Áreas de Interés:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Análisis de Datos Geoespaciales
+Sistemas de Información Geográfica (SIG)
+Testeo y Calidad de Apps Móviles y Delivery
+Desarrollo de Aplicaciones Basadas en Mapas
+
+📈 Skills:
+
+🌟 Objetivo:
+Contribuir a proyectos innovadores que integren tecnología geoespacial para resolver problemas del mundo real.
+
