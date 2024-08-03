@@ -38,3 +38,4 @@ Desarrollo de Aplicaciones Basadas en Mapas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonatanavrom&show_icons=true&theme=radical)
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jhonatanavrom&theme=radical)
