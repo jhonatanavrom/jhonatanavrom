@@ -2,9 +2,6 @@
 
 ![Banner](https://github.com/jhonatanavrom/jhonatanavrom/blob/main/banner2.png)
 
-<div id="badges" align="center">
-  <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jhonatanavrom.jhonatanavrom&color=00cf00" alt="Visitor Badge"/>
-</div>
 
   
 
