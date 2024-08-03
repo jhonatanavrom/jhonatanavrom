@@ -35,10 +35,3 @@ Desarrollo de Aplicaciones Basadas en Mapas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/jhonatanavrom/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jhonatanavrom&theme=dark&background=000000)](https://git.io/streak-stats)
-
-## My Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=jhonatanavrom&layout=compact&theme=radical)
