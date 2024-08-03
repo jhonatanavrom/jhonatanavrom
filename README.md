@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/noelianav/](https://www.linkedin.com/in/jhonatan-avendano-romero/))
+
 ## Bienvenido a mi espacio creativo 👋
 
 Soy un entusiasta del análisis de datos geoespaciales, especializado en el testeo de aplicaciones que utilizan mapas, rutas y coordenadas. Mi objetivo es optimizar y asegurar la precisión de las aplicaciones de delivery para proporcionar la mejor experiencia al usuario.
