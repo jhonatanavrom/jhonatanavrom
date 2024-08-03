@@ -36,5 +36,9 @@ Desarrollo de Aplicaciones Basadas en Mapas
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jhonatanavrom&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=jhonatanavrom&layout=compact&theme=radical)
+## My Coding Activity
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=jhonatanavrom&layout=compact&theme=radical)
