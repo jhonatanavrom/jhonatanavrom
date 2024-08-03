@@ -1,6 +1,9 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-avendano-romero/)
 
-## Bienvenido a mi espacio creativo 👋
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
+  
+<h1>Bienvenido a mi espacio creativo 👋</h1>
 
 Soy un entusiasta del análisis de datos geoespaciales, especializado en el testeo de aplicaciones que utilizan mapas, rutas y coordenadas. Mi objetivo es optimizar y asegurar la precisión de las aplicaciones de delivery para proporcionar la mejor experiencia al usuario.
 
