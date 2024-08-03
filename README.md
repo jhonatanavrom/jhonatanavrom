@@ -36,5 +36,5 @@ Desarrollo de Aplicaciones Basadas en Mapas
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jhonatanavrom&theme=dark&background=000000)](https://git.io/streak-stats)
 
-## 📊 My stats
-<img align="center" width="600" alt="Data" src="general.svg">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonatanavrom&show_icons=true&theme=radical)
+
